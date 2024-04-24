@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1683663866 source:c:\users\zhome\documents\c++\bourse2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<ctime>
+	<cmath>
+	<cstdlib>
+	<sstream>
+	<chrono>
+	<map>
+	<cassert>
+	"trader.h"
+	"bourse.h"
+	"portefeuille.h"
+	"date.h"
+	"test.h"
+	"prixjournaliers.h"
+	"simulation.h"
+	"titre.h"
+	"traderaleatoire.h"
+
+1683563551 c:\users\zhome\documents\c++\bourse2\trader.h
+	<string>
+	<vector>
+	"bourse.h"
+	"portefeuille.h"
+	"transaction.h"
+
+1683562865 c:\users\zhome\documents\c++\bourse2\bourse.h
+	<string>
+	<vector>
+	<map>
+	"portefeuille.h"
+	"date.h"
+	"prixjournaliers.h"
+
+1683563311 c:\users\zhome\documents\c++\bourse2\portefeuille.h
+	<string>
+	<vector>
+	"bourse.h"
+	"titre.h"
+
+1683563311 c:\users\zhome\documents\c++\bourse2\titre.h
+	<iostream>
+	<string>
+	<vector>
+
+1683579699 c:\users\zhome\documents\c++\bourse2\date.h
+	<string>
+	<vector>
+
+1683562685 c:\users\zhome\documents\c++\bourse2\prixjournaliers.h
+	<string>
+	<vector>
+	"date.h"
+
+1683563311 c:\users\zhome\documents\c++\bourse2\transaction.h
+	<iostream>
+	<string>
+	<vector>
+
+1683563748 c:\users\zhome\documents\c++\bourse2\test.h
+	"date.h"
+
+1683573761 c:\users\zhome\documents\c++\bourse2\simulation.h
+	<string>
+	<vector>
+	"bourse.h"
+	"trader.h"
+
+1683563551 c:\users\zhome\documents\c++\bourse2\traderaleatoire.h
+	<string>
+	<vector>
+	"bourse.h"
+	"portefeuille.h"
+	"transaction.h"
+	"trader.h"
+
+1683725031 source:c:\users\hp\desktop\bourse2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<ctime>
+	<cmath>
+	<cstdlib>
+	<sstream>
+	<chrono>
+	<map>
+	<cassert>
+	"trader.h"
+	"bourse.h"
+	"portefeuille.h"
+	"date.h"
+	"test.h"
+	"prixjournaliers.h"
+	"simulation.h"
+	"titre.h"
+	"traderaleatoire.h"
+
+1683563552 c:\users\hp\desktop\bourse2\trader.h
+	<string>
+	<vector>
+	"bourse.h"
+	"portefeuille.h"
+	"transaction.h"
+
+1683562866 c:\users\hp\desktop\bourse2\bourse.h
+	<string>
+	<vector>
+	<map>
+	"portefeuille.h"
+	"date.h"
+	"prixjournaliers.h"
+
+1683723372 c:\users\hp\desktop\bourse2\portefeuille.h
+	<string>
+	<vector>
+	"bourse.h"
+	"titre.h"
+
+1683563312 c:\users\hp\desktop\bourse2\titre.h
+	<iostream>
+	<string>
+	<vector>
+
+1683579700 c:\users\hp\desktop\bourse2\date.h
+	<string>
+	<vector>
+
+1683562686 c:\users\hp\desktop\bourse2\prixjournaliers.h
+	<string>
+	<vector>
+	"date.h"
+
+1683563312 c:\users\hp\desktop\bourse2\transaction.h
+	<iostream>
+	<string>
+	<vector>
+
+1683563750 c:\users\hp\desktop\bourse2\test.h
+	"date.h"
+
+1683573762 c:\users\hp\desktop\bourse2\simulation.h
+	<string>
+	<vector>
+	"bourse.h"
+	"trader.h"
+
+1683563552 c:\users\hp\desktop\bourse2\traderaleatoire.h
+	<string>
+	<vector>
+	"bourse.h"
+	"portefeuille.h"
+	"transaction.h"
+	"trader.h"
+
